@@ -1,9 +1,9 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: img/original-size-charcoal-bordered-photography-logo.png
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: 24 Mullingar Way, Landsdale
   - heading: Working hours
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
