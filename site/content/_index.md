@@ -1,20 +1,41 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Out There Perth
+subtitle: Encountering God outside the walls of institutions, cultures and mindsets
+image: img/perth-1368337_1920.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+  heading: About
+  text: >-
+    We are a group of people who have started churches and ministries throughout
+    Africa, China, the South Pacific and Australia. We come from very different
+    Christian backgrounds, but are united in vision.
 
+
+    We are not operating under any kind of institution. We have recognized a need to return to a simpler biblical approach to living a Christian life, where we encounter God outside of the walls. So our time, money and energy can be used to further Gods’ kingdom rather than an organization.
+intro:
+  heading: What we do
+  text: For those who don’t go to a church or seeking after God we have meetings
+    to encounter God and grow in community every Sunday, 4pm, 24 Mullingar Way,
+    Landsdale.
+products:
+  - image: img/72666030_2529763594016225_7401631679384649728_n.jpg
+    text: We sell green and roasted coffee beans that are sourced directly from
+      independent farmers and farm cooperatives. We’re proud to offer a variety
+      of coffee beans grown with great care for the environment and local
+      communities. Check our post or contact us directly for current
+      availability.
+  - image: img/4f-300x233.png
+    text: >-
+      
+      For those that want serve God more effectively we provide training Sunday midday, 24 Mulingar Way, Landsdale.
+values:
+  heading: Prayer
+  text: >-
+    Do you have financial, health, relationship or other areas that you could
+    use God’s help with? Do you want someone to talk to confidentially? We
+    aren’t looking for anything in return, we just want you to encounter God’s
+    power.
+
+
+
+    Please fill in your requests below or if you prefer someone to call you please leave your details and a time to call you back.
+---
