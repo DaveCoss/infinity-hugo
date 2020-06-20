@@ -18,24 +18,14 @@ intro:
     Landsdale.
 products:
   - image: img/72666030_2529763594016225_7401631679384649728_n.jpg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: For those that want serve God more effectively we provide training Sunday
+      midday, 24 Mulingar Way, Landsdale.
   - image: img/4f-300x233.png
-    text: >-
-      
-      For those that want serve God more effectively we provide training Sunday midday, 24 Mulingar Way, Landsdale.
+    text: "\n"
 values:
   heading: Prayer
-  text: >-
-    Do you have financial, health, relationship or other areas that you could
+  text: Do you have financial, health, relationship or other areas that you could
     use God’s help with? Do you want someone to talk to confidentially? We
     aren’t looking for anything in return, we just want you to encounter God’s
     power.
-
-
-
-    Please fill in your requests below or if you prefer someone to call you please leave your details and a time to call you back.
 ---
